@@ -7,7 +7,7 @@ This module helps making leaderstats with datastore
 # Setting up
 1.-Create a new DataStore in Roblox using the DataStoreService.
 
-2.-Copy the contents of this module to a new Lua script in your Roblox game.
+2.-Copy the contents of this module to a new Module script in your Roblox game.
 # Code Sample
 ```lua
 --//Module
